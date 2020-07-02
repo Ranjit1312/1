@@ -1,0 +1,32 @@
+Account : They pull the money from customer against the subscription (not returns, mostly different account from that of returns).
+As accounting guys dont communicate with the customers, it is support taking those calls and foward it to accounting queue.
+Some states gives avalara universal ID to fill taxes, while some dont allow that. Those states need the spcific user ID and P/W for the DoR website.
+Authentication 
+How to check Go live page ?
+To check when the avalara returns will be filed:
+Details > Golive > Cases > Golive implementation details > meetings (MoM) :
+Calc Go Live : Company set up , connectors , etc
+Certs Go live: For certcapture,
+Returns GOlive : Active - in process ; Live - returns filing started (may not be updated accurately)
+Managed Returns Onboarding: 
+
+Big Commerce : (AIP) Avalara Included Plan 
+Avalara makes tie-ups with the commerce platforms so that the commerce product will sell the avalara included in their plan of commerce platform.
+*Documentations of cases*
+Liability Worksheet doubts : Tax Date , Transacntion Date ,Rebuilt scenerios , rebuilt prcedure.
+authentication code : Shared folder.
+
+
+How to check the forms chosen for the state ?
+which form is active for th state in his account ? : filing calendar > under manage filing calendars > select the calendar for the month and state > check the form in the form clumn
+Check filing frequncy from liability worksheet ? : Click on the worksheet you see clock filled with red area : 1/4 th - quarterly ; 1/2 - half yearly ; full - anually ; 5 mins arc - monthly
+How to check available forms for the state ? : Go to filing calendar , 'select the forms' (under set up filing calendar)
+
+Now , AvaTax Cup :
+Returns : 
+1. manage nd approve returns - liability worksheet (no hyperlinks on the subtotalled amount instead single option of tax details, etc)
+2. Filed returns and comfirmation - filing archives
+3. All schedulded returns - filing calendars
+4. Tax Notices - Notifications from DoR : Dedicated team for tax notices to confirm or receive notices from DoR
+5. Funding power of attorney - POA
+
